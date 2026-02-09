@@ -37,7 +37,7 @@ cd qumulo-aggregates-reporter
 Place the `qq` file (the python script downloaded from your cluster) into the same directory as `qumulo_report_complete.py`.
 Your folder structure should look like this:
 ```text
-/qumulo-reporter
+/qumulo-aggregates-reporter
 ├── README.md
 ├── qumulo_report.py
 └── qq                  <-- The Qumulo CLI script
