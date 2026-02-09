@@ -39,7 +39,7 @@ Your folder structure should look like this:
 ```text
 /qumulo-reporter
 ├── README.md
-├── qumulo_report_complete.py
+├── qumulo_report.py
 └── qq                  <-- The Qumulo CLI script
 
 ```
