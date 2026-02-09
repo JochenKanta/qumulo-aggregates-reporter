@@ -6,7 +6,7 @@ import os
 
 # --- KONFIGURATION ---
 # Standard-Host, falls der Nutzer nichts eingibt (Enter drückt)
-DEFAULT_HOST = "abt-soc502-fs.de.bosch.com"
+DEFAULT_HOST = "hostname"
 
 # Wir rufen 'qq' via 'python qq' auf. 
 # Annahme: Die Datei 'qq' liegt im selben Verzeichnis wie dieses Script.
